@@ -1,0 +1,34 @@
+[
+    {
+        "id": 0,
+        "Name": "Mahou D&D Rulebook",
+        "Description": "A softcover book containing the rules of Mahou D&D.",
+        "Price": 25.00,
+        "Img": "imgs/mahou-book.png",
+        "imgAlt": "A stack Mahou D&D rulebooks"
+    },
+    {
+        "id": 1,
+        "Name": "Magical Girl Keychains",
+        "Description": "A set of two keychains featuring magical girl designs.",
+        "Price": 10.00,
+        "Img": "imgs/keychains.png",
+        "imgAlt": "Two acryllic printed keychains."
+    },
+    {
+        "id": 2,
+        "Name": "Magical Girl Stickers",
+        "Description": "A sticker sheet featuring the characters of mahou D&D.",
+        "Price": 8.00,
+        "Img": "imgs/mahou-stickers.png",
+        "imgAlt": "A sticker sheet with 7 chibi characters on it"
+    },
+    {
+        "id": 3,
+        "Name": "Mahou D&D totebag",
+        "Description": "A cotton totebag, with the a design of the magical girl team screen printed on.",
+        "Price": 15.00,
+        "Img": "imgs/mahou-totebag.png",
+        "imgAlt": "A totebag with 7 mahou d&d characters screen printed on."
+    }
+]
